@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Programming Languages
+### Frameworks | Libraries 
+### Databases
+### Hosting | SaaS | PaaS
+### Version Control | Coding
