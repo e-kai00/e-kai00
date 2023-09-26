@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Programming Languages
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23262626?logo=javascript&logoColor=%23F7DF1E&labelColor=262626)
-![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%23ffe066)
+![HTML](https://img.shields.io/badge/HTML-%23333333?logo=html5&logoColor=%23ffffff&labelColor=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-%23333333?logo=css3&logoColor=%23ffffff&labelColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23333333?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%23333333?logo=python&logoColor=%23ffffcc&labelColor=%233776AB)
 
 ### Frameworks | Libraries 
 ![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
