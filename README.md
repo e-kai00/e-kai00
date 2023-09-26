@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **e-kai00/e-kai00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,23 +19,23 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%23ffe066)
 
 ### Frameworks | Libraries 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=ffffff)
+![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
 ![Materialize](https://img.shields.io/badge/Materialize-%23ef9a9a%20)
-![JQuery](https://img.shields.io/badge/jQuery-%23000000?logo=jquery&logoColor=%230769AD&labelColor=%23ffffff&color=%23ffffff)
-![Static Badge](https://img.shields.io/badge/Chart.js-%23ffffff?logo=chart.js)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?logo=pandas)
-![Django](https://img.shields.io/badge/Django-%23092E20?logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![Express](https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=%23000000&labelColor=%23ffffff)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23ffffff?logo=mongoose&logoColor=%23880000)
-
-### Hosting | SaaS | PaaS
-![Heroku](https://img.shields.io/badge/Heroku-%23430098?logo=heroku)
+![jQuery](https://img.shields.io/badge/jQuery-%23333333?logo=jquery&logoColor=%23ffffff&labelColor=%230769AD)
+![Chartjs](https://img.shields.io/badge/Chart.js-%23333333?logo=chartdotjs&logoColor=%23ffffff&labelColor=%23FF6384)
+![Pandas](https://img.shields.io/badge/pandas-%23333333?logo=pandas&logoColor=%23150458&labelColor=%23ffffff)
+![Django](https://img.shields.io/badge/Django-%23333333?logo=django&logoColor=%23092E20&labelColor=%23ffffff)
+![Flask](https://img.shields.io/badge/Flask-%23333333?logo=flask&logoColor=%23000000&labelColor=%23ffffff)
+![Express](https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=%23000000&labelColor=%23ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23333333?logo=mongoose&logoColor=%23ffffff&labelColor=%23880000)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&labelColor=%23ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=%23ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=%23ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-%23333333?logo=mysql&logoColor=%23ffffff&labelColor=%234479A1)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-%23333333?logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23333333?logo=mongodb&logoColor=%23ffffff&labelColor=%2347A248)
+
+### Hosting | SaaS | PaaS
+![Heroku](https://img.shields.io/badge/Heroku-%23333333?logo=heroku&logoColor=%23ffffff&labelColor=%23430098)
 
 ### Version Control | Coding
 ![GIT](https://img.shields.io/badge/GIT-%23333333?logo=git&logoColor=%23ffffff&labelColor=%23F05032)
