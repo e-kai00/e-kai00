@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Programming Languages
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23262626?logo=javascript&logoColor=%23F7DF1E&labelColor=262626)
+![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%23ffe066)
+
+
+
 ### Frameworks | Libraries 
 ### Databases
 ### Hosting | SaaS | PaaS
