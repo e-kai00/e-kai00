@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23333333?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%23333333?logo=python&logoColor=%23ffffcc&labelColor=%233776AB)
 
-### Frameworks | Libraries 
+### Frameworks | Libraries | API
 ![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
 ![Materialize](https://img.shields.io/badge/Materialize-%23ef9a9a%20)
 ![jQuery](https://img.shields.io/badge/jQuery-%23333333?logo=jquery&logoColor=%23ffffff&labelColor=%230769AD)
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/Django-%23333333?logo=django&logoColor=%23092E20&labelColor=%23ffffff)
 ![Flask](https://img.shields.io/badge/Flask-%23333333?logo=flask&logoColor=%23000000&labelColor=%23ffffff)
 ![Express](https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=%23000000&labelColor=%23ffffff)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23333333?logo=mongoose&logoColor=%23ffffff&labelColor=%23880000)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23333333?logo=mongoose&logoColor=%23880000&labelColor=%23ffffff)
+![Postmon](https://img.shields.io/badge/Postman-%23333333?logo=postman&logoColor=%23ffffff&labelColor=%23FF6C37)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%23333333?logo=mysql&logoColor=%23ffffff&labelColor=%234479A1)
