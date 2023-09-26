@@ -29,10 +29,15 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 ![Express](https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=%23000000&labelColor=%23ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=%23ffffff)
 
-
-
+### Hosting | SaaS | PaaS
+![Heroku](https://img.shields.io/badge/Heroku-%23430098?logo=heroku)
 
 ### Databases
-### Hosting | SaaS | PaaS
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&labelColor=%23ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=%23ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=%23ffffff)
+
 ### Version Control | Coding
+
