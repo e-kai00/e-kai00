@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 ![Express](https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=%23000000&labelColor=%23ffffff)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000?logo=mongoose&logoColor=%23ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23ffffff?logo=mongoose&logoColor=%23880000)
 
 ### Hosting | SaaS | PaaS
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?logo=heroku)
@@ -40,4 +40,13 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=%23ffffff)
 
 ### Version Control | Coding
+![GIT](https://img.shields.io/badge/GIT-%23333333?logo=git&logoColor=%23ffffff&labelColor=%23F05032)
+![GitHub](https://img.shields.io/badge/GitHub-%23333333?logo=github&logoColor=%23ffffff&labelColor=%23181717)
+![GitPod](https://img.shields.io/badge/GitPod-%23333333?logo=gitpod&logoColor=%23ffffff&labelColor=%23FFAE33)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23333333?logo=visualstudiocode&logoColor=%23ffffff&labelColor=%23007ACC)
+
+
+
+
+
 
