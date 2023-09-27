@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23333333?logo=visualstudiocode&logoColor=%23ffffff&labelColor=%23007ACC)
 
 
+<details>
+<summary>Stats</summary>
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=e-kai00.e-kai00)
+
+</details>
 
 
