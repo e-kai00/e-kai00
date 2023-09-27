@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
 ![Materialize](https://img.shields.io/badge/Materialize-%23ef9a9a%20)
 ![jQuery](https://img.shields.io/badge/jQuery-%23333333?logo=jquery&logoColor=%23ffffff&labelColor=%230769AD)
-![Chartjs](https://img.shields.io/badge/Chart.js-%23333333?logo=chartdotjs&logoColor=%23ffffff&labelColor=%23FF6384)
+![Chartjs](https://img.shields.io/badge/Chart.js-%23333333?logo=chartdotjs&logoColor=%23ffffff&labelColor=%23FF6384)<br>
 ![Pandas](https://img.shields.io/badge/pandas-%23333333?logo=pandas&logoColor=%23150458&labelColor=%23ffffff)
 ![Django](https://img.shields.io/badge/Django-%23333333?logo=django&logoColor=%23092E20&labelColor=%23ffffff)
 ![Flask](https://img.shields.io/badge/Flask-%23333333?logo=flask&logoColor=%23000000&labelColor=%23ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-%23333333?logo=nodedotjs&logoColor=%23ffffff&labelColor=%23339933)<br>
 ![Express](https://img.shields.io/badge/Express-%23333333?logo=express&logoColor=%23000000&labelColor=%23ffffff)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23333333?logo=mongoose&logoColor=%23880000&labelColor=%23ffffff)
 ![Postmon](https://img.shields.io/badge/Postman-%23333333?logo=postman&logoColor=%23ffffff&labelColor=%23FF6C37)
@@ -35,10 +36,10 @@ Here are some ideas to get you started:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-%23333333?logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23333333?logo=mongodb&logoColor=%23ffffff&labelColor=%2347A248)
 
-### Hosting | SaaS | PaaS
+### Hosting 
 ![Heroku](https://img.shields.io/badge/Heroku-%23333333?logo=heroku&logoColor=%23ffffff&labelColor=%23430098)
 
-### Version Control | Coding
+### Version Control 
 ![GIT](https://img.shields.io/badge/GIT-%23333333?logo=git&logoColor=%23ffffff&labelColor=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-%23333333?logo=github&logoColor=%23ffffff&labelColor=%23181717)
 ![GitPod](https://img.shields.io/badge/GitPod-%23333333?logo=gitpod&logoColor=%23ffffff&labelColor=%23FFAE33)
