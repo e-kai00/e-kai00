@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
 ![Materialize](https://img.shields.io/badge/Materialize-%23ef9a9a%20)
 ![jQuery](https://img.shields.io/badge/jQuery-%23333333?logo=jquery&logoColor=%23ffffff&labelColor=%230769AD)
-![Chartjs](https://img.shields.io/badge/Chart.js-%23333333?logo=chartdotjs&logoColor=%23ffffff&labelColor=%23FF6384)
 ![Pandas](https://img.shields.io/badge/pandas-%23333333?logo=pandas&logoColor=%23150458&labelColor=%23ffffff)
 ![Django](https://img.shields.io/badge/Django-%23333333?logo=django&logoColor=%23092E20&labelColor=%23ffffff)
 ![Flask](https://img.shields.io/badge/Flask-%23333333?logo=flask&logoColor=%23000000&labelColor=%23ffffff)
