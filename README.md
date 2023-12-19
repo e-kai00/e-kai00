@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Programming Languages
+
 ![HTML](https://img.shields.io/badge/HTML-%23333333?logo=html5&logoColor=%23ffffff&labelColor=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-%23333333?logo=css3&logoColor=%23ffffff&labelColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23333333?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%23333333?logo=python&logoColor=%23ffffcc&labelColor=%233776AB)
 
-### Frameworks | Libraries | API
+
 ![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
 ![Materialize](https://img.shields.io/badge/Materialize-%23ef9a9a%20)
 ![jQuery](https://img.shields.io/badge/jQuery-%23333333?logo=jquery&logoColor=%23ffffff&labelColor=%230769AD)
