@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 
 ![Bootstap](https://img.shields.io/badge/Bootstap-%23333333?logo=bootstrap&logoColor=%23ffffff&labelColor=%237952B3)
-![Materialize](https://img.shields.io/badge/Materialize-%23ef9a9a%20)
-![jQuery](https://img.shields.io/badge/jQuery-%23333333?logo=jquery&logoColor=%23ffffff&labelColor=%230769AD)
-![Pandas](https://img.shields.io/badge/pandas-%23333333?logo=pandas&logoColor=%23150458&labelColor=%23ffffff)
 ![Django](https://img.shields.io/badge/Django-%23333333?logo=django&logoColor=%23092E20&labelColor=%23ffffff)
 ![Flask](https://img.shields.io/badge/Flask-%23333333?logo=flask&logoColor=%23000000&labelColor=%23ffffff)
 ![Express](https://img.shields.io/badge/Express.js-%23333333?logo=express&logoColor=%23000000&labelColor=%23ffffff)
@@ -40,7 +37,6 @@ Here are some ideas to get you started:
 
 ![GIT](https://img.shields.io/badge/GIT-%23333333?logo=git&logoColor=%23ffffff&labelColor=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-%23333333?logo=github&logoColor=%23ffffff&labelColor=%23181717)
-![GitPod](https://img.shields.io/badge/GitPod-%23333333?logo=gitpod&logoColor=%23ffffff&labelColor=%23FFAE33)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23333333?logo=visualstudiocode&logoColor=%23ffffff&labelColor=%23007ACC)
 
 
