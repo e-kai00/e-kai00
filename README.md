@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23333333?logo=mongoose&logoColor=%23880000&labelColor=%23ffffff)
 ![Postmon](https://img.shields.io/badge/Postman-%23333333?logo=postman&logoColor=%23ffffff&labelColor=%23FF6C37)
 
-### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-%23333333?logo=mysql&logoColor=%23ffffff&labelColor=%234479A1)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-%23333333?logo=postgresql&logoColor=%23ffffff&labelColor=%234169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23333333?logo=mongodb&logoColor=%23ffffff&labelColor=%2347A248)
 
-### Hosting 
+
 ![Heroku](https://img.shields.io/badge/Heroku-%23333333?logo=heroku&logoColor=%23ffffff&labelColor=%23430098)
 
-### Version Control 
+
 ![GIT](https://img.shields.io/badge/GIT-%23333333?logo=git&logoColor=%23ffffff&labelColor=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-%23333333?logo=github&logoColor=%23ffffff&labelColor=%23181717)
 ![GitPod](https://img.shields.io/badge/GitPod-%23333333?logo=gitpod&logoColor=%23ffffff&labelColor=%23FFAE33)
